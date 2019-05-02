@@ -1,6 +1,7 @@
 # calificador
 
-a [Sails v1](https://sailsjs.com) application
+a [Sails v1](https://sailsjs.com) application.
+Calificador de examenes en linea
 
 
 ### Links
